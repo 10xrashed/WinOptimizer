@@ -1,4 +1,4 @@
-# Windows Optimizer & Cleaner
+# WinOptimizer : Windows Optimizer & Cleaner
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Batch Script](https://img.shields.io/badge/Language-Batch-blue.svg)](#)
